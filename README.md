@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 正在给巨应壁纸填坑
-- 🌱 正在学习 Flutter
+- 🔭 当前正在给巨应壁纸填坑
+- 🌱 并且在学习 Flutter
 
 [![DaZiYuan's github stats](https://github-readme-stats.vercel.app/api?username=DaZiYuan&theme=tokyonight)](https://github.com/DaZiYuan/ '代码抄写狮的信息')
 
