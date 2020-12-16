@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 当前正在给巨应壁纸2.0，紧急填坑
+- 🔭 我当前正在给巨应壁纸2.0，紧急填坑中...
 
 [![DaZiYuan's github stats](https://github-readme-stats.vercel.app/api?username=DaZiYuan&theme=tokyonight)](https://github.com/DaZiYuan/ '代码抄写狮的信息')
 
