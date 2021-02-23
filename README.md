@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 我当前正在给巨应壁纸2.0，紧急填坑中...
+- I am on my way to becoming a full stack engineer.
+- This is my [blog](mscoder.cn).
+- The [brand](giantapp.cn) created by me. 
 
 [![DaZiYuan's github stats](https://github-readme-stats.vercel.app/api?username=DaZiYuan&theme=tokyonight)](https://github.com/DaZiYuan/ '代码抄写狮的信息')
 
