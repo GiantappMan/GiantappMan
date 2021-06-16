@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I am on my way to becoming a full stack engineer.
-- This is my [blog](https://mscoder.cn).
-- The [brand](https://giantapp.cn) created by me. 
+- This is my [blog](https://www.mscoder.cn).
+- The [brand](https://www.giantapp.cn) created by me. 
 
 [![DaZiYuan's github stats](https://github-readme-stats.vercel.app/api?username=DaZiYuan&theme=tokyonight)](https://github.com/DaZiYuan/ '代码抄写狮的信息')
 
