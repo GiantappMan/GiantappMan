@@ -1,4 +1,4 @@
-### 你好啊
+### Hi，朋友 三点几勒
 
 <!--
 **DaZiYuan/DaZiYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- C#程序员、JS爱好者、腾讯云粉丝
+- 我是一名C#程序员，JS爱好者，腾讯云粉丝
 - 热衷鬼畜和开发一些小应用
 - 追求自由的编码
 - 我的[博客](https://www.mscoder.cn) 目前有点bug，白屏就刷新
