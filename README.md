@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 # 简介：
 - 一名资深应用层全栈/粘贴师 - Paster
-- 一个有信念的人
+- 一个有信念的码夫
 -  致力于打造良心小软件
 - [一些小项目](https://www.giantapp.cn)  
 - [万年不更的博客](https://www.mscoder.cn)  
