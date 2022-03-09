@@ -1,4 +1,4 @@
-### Hi，朋友 三点几勒
+### Hi，朋友 三点几勒，做咩啊做，饮茶先啦
 
 <!--
 **DaZiYuan/DaZiYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,9 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 资深粘贴师 - Paster
-- [万能不更的博客](https://www.mscoder.cn)
-- [一些小项目](https://www.giantapp.cn) 
+# 简介：
+- 一名资深应用层全栈/粘贴师 - Paster
+- 一个有信念的人
+-  致力于打造良心小软件
+- [一些小项目](https://www.giantapp.cn)  
+- [万年不更的博客](https://www.mscoder.cn)  
+
 
 [![DaZiYuan's github stats](https://github-readme-stats.vercel.app/api?username=DaZiYuan&theme=tokyonight)](https://github.com/DaZiYuan/ 'Paster的信息')
 
