@@ -1,5 +1,5 @@
 ### Hi，朋友 三点几勒，做咩啊做，饮茶先啦
-
+### Programming for freedom, and Contributing to humans.
 <!--
 **DaZiYuan/DaZiYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +23,10 @@ Here are some ideas to get you started:
 
 [![Page Views Count](https://badges.toozhao.com/badges/01EKCZPTB3HQY6CY3FV4BC53DT/blue.svg)](https://badges.toozhao.com/badges/01EKCZPTB3HQY6CY3FV4BC53DT/blue.svg "Get your own page views count badge on badges.toozhao.com")
 
+# 联系我：
+- bilibili: [https://space.bilibili.com/32676827](https://space.bilibili.com/32676827)  
+- 公众号：[巨应君](https://giantapp.cn/images/dyh.png)  
+- youtube: [https://www.youtube.com/channel/UCS-nZhrfAz0osmKm2AchvFA](https://www.youtube.com/channel/UCS-nZhrfAz0osmKm2AchvFA)
+
 ---
-### Programming for freedom, and Contributing to humans.
+
