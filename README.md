@@ -1,5 +1,5 @@
 ### Hi，朋友 三点几勒，做咩啊做，饮茶先啦
-### Programming for freedom, and Contributing to humans.
+### Programming for freedom, and contributing to humans.
 <!--
 **DaZiYuan/DaZiYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
