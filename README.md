@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 [![Page Views Count](https://badges.toozhao.com/badges/01EKCZPTB3HQY6CY3FV4BC53DT/blue.svg)](https://badges.toozhao.com/badges/01EKCZPTB3HQY6CY3FV4BC53DT/blue.svg "Get your own page views count badge on badges.toozhao.com")
 
 # 社交媒体：
-- Bilibili: [https://space.bilibili.com/32676827](https://space.bilibili.com/32676827)  
+- Bilibili: [巨应君](https://space.bilibili.com/32676827)  
+- 订阅号: [巨应君](https://giantapp.cn/images/dyh.png)
+- 抖音：[巨应君](https://www.douyin.com/user/MS4wLjABAAAAPZmKFJA15WpOOIG4FvSX_5v1CtOOkeSnTON-I8l4c-U?vid=7043395647789223201)  
+- 微博：[https://weibo.com/u/1361374910](https://weibo.com/u/1361374910)
+- 巨应官网: [https://www.giantapp.cn](https://www.giantapp.cn)    
+- 个人博客: [https://www.mscoder.cn](https://www.mscoder.cn)  
+- Twitter: [https://twitter.com/giantapp_man](https://twitter.com/giantapp_man)  
 - Youtube: [https://www.youtube.com/channel/UCS-nZhrfAz0osmKm2AchvFA](https://www.youtube.com/channel/UCS-nZhrfAz0osmKm2AchvFA)
-- 公众号: [巨应君](https://giantapp.cn/images/dyh.png)  
-- 巨应: [https://www.giantapp.cn](https://www.giantapp.cn)  
-- 博客: [https://www.mscoder.cn](https://www.mscoder.cn)  
 ---
 
