@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 关于我：
-- 全干码农，以肝取胜
+- 不认命的码农，正在肝巨应
 
 <a href="https://www.mscoder.cn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiantappMan&theme=tokyonight&count_private=true&hide_border=true&hide=prs" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiantappMan&theme=tokyonight&layout=compact&hide_border=true" /></a>  
 
