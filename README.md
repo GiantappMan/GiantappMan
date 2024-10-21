@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 # 关于我：
 - 无产阶级码农  
-- 副业个体创业中（巨应）  
-- 目前打算只搞技术和学习投资  
-- 人心太复杂，向内求  
+- 副业个体创业中（巨应君）  
+- 只做编程和投资两个方向  
+- 人心太复杂，我选择向内求  
 
 <a href="https://www.mscoder.cn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiantappMan&theme=tokyonight&count_private=true&hide_border=true&hide=prs" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiantappMan&theme=tokyonight&layout=compact&hide_border=true" /></a>  
 
