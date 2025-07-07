@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 # 关于我：
 - 主业无产阶级码农  
 - 副业个体创业中（巨应君）  
-- 只做编程和投资两个方向，希望能拥有自己的资产  
-- 不善于打交道，喜欢向内寻求答案  
-- 喜欢玩游戏
+- 只做编程和投资两个方向  
+- 不善交际，习惯性向内求  
+- 喜欢玩游戏  
 
 # 核心价值观
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # 使命
 
 - 做小而美的软件，让人们用的高兴  
-- 拥有资产，实现睡后收入  
+- 变得有产，拥有自由，去做自己感兴趣的事  
 
 
 <a href="https://www.mscoder.cn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiantappMan&theme=tokyonight&count_private=true&hide_border=true&hide=prs" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiantappMan&theme=tokyonight&layout=compact&hide_border=true" /></a>  
