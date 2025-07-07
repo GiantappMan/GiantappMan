@@ -11,10 +11,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 关于我：
-- 无产阶级码农  
+- 主业无产阶级码农  
 - 副业个体创业中（巨应君）  
-- 只做编程和投资/交易两个方向  
-- 人心太复杂，我选择向内求  
+- 只做编程和投资两个方向，希望能拥有自己的资产  
+- 不善于打交道，喜欢向内寻求答案  
+- 喜欢玩游戏
+
+# 核心价值观
+
+兴趣、学习、模仿、创造、利他、做对的事
+
+# 使命
+
+- 做小而美的软件，让人们用的高兴  
+- 拥有资产，实现睡后收入  
+
 
 <a href="https://www.mscoder.cn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiantappMan&theme=tokyonight&count_private=true&hide_border=true&hide=prs" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiantappMan&theme=tokyonight&layout=compact&hide_border=true" /></a>  
 
